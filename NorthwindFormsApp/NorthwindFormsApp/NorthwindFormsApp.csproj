@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="WinForms.DataVisualization" Version="1.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Forms\AddEditCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddEditOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddEditEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddEditProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddEditSupplierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeesForm.cs" />
+    <Compile Update="Forms\SuppliersForm.cs" />
+    <Compile Update="Forms\OrdersForm.cs" />
+    <Compile Update="Forms\CustomersForm.cs" />
+    <Compile Update="Forms\ProductsForm.cs" />
+  </ItemGroup>
+
+</Project>

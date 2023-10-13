@@ -1,13 +1,14 @@
-NorthwindFormsApp
------------------
+Northwind WinFormsApp
+---------------------
 
 Application Name: NorthwindFormsApp
+
 Version: 1.0
 
 
 Description
 -----------
-The NorthwindFormsApp is a Windows Forms application designed as valuable tool for warehouse management over products, orders and suppliers.
+The NorthwindFormsApp is a Windows Forms application designed as valuable tool for warehouse management over products, customers, orders, suppliers, categories and employees.
 
 
 Features
@@ -36,23 +37,18 @@ To set up the database, follow these steps:
 
 Usage
 -----
-- Adding a Product:
-  - Click "Add Product" to add a new product to the system.
-  - Fill in the product details and click "Save."
+- Adding:
+  - Click "Add" to create a new item.
+  - Fill in the "product" details and click "Save."
 
-- Editing a Product:
-  - Select a product from the list.
-  - Click "Edit Product" to modify its information.
-  - Update the details and click "Save."
+- Editing:
+  - Select a "product" row from list.
+  - Click "Add" to update the existing item.
+  - Fill in the "product" details and click "Save."
 
-- Adding an Employee:
-  - Click "Add Employee" to add a new employee record.
-  - Enter the employee's information and click "Save."
-
-- Editing an Employee:
-  - Choose an employee from the list.
-  - Click "Edit Employee" to update employee details.
-  - Save the changes.
+- Deleting:
+  - Select a "product" row from datagridview
+  - Click "Delete" to remove it.
 
 
 Contributing
@@ -60,11 +56,11 @@ Contributing
 We welcome contributions to the NorthwindFormsApp project. If you have suggestions, improvements, or bug fixes, please submit a pull request.
 
 
-Copyright
----------
-Copyright © 2023 Andile Shange. All rights reserved.
-
-
 Contact
 -------
 If you have any questions or need support, contact me at andile34@yahoo.com.
+
+
+Copyright
+---------
+Copyright © 2023 Andile Shange. All rights reserved.

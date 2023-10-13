@@ -1141,11 +1141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andil\\Documents\\I am a Developer\\NorthwindWinFormsApp - Copy\\NorthwindFormsApp\\NorthwindFormsApp\\NorthwindFormsApp.csproj",
+      "projectUniqueName": "C:\\Users\\andil\\Documents\\GitHub\\Northwind-WinFormsApp\\NorthwindFormsApp\\NorthwindFormsApp\\NorthwindFormsApp.csproj",
       "projectName": "NorthwindFormsApp",
-      "projectPath": "C:\\Users\\andil\\Documents\\I am a Developer\\NorthwindWinFormsApp - Copy\\NorthwindFormsApp\\NorthwindFormsApp\\NorthwindFormsApp.csproj",
+      "projectPath": "C:\\Users\\andil\\Documents\\GitHub\\Northwind-WinFormsApp\\NorthwindFormsApp\\NorthwindFormsApp\\NorthwindFormsApp.csproj",
       "packagesPath": "C:\\Users\\andil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andil\\Documents\\I am a Developer\\NorthwindWinFormsApp - Copy\\NorthwindFormsApp\\NorthwindFormsApp\\obj\\",
+      "outputPath": "C:\\Users\\andil\\Documents\\GitHub\\Northwind-WinFormsApp\\NorthwindFormsApp\\NorthwindFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andil\\AppData\\Roaming\\NuGet\\NuGet.Config",

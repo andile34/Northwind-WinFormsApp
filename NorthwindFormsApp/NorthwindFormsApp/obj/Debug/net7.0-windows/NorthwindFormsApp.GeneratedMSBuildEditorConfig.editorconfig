@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NorthwindFormsApp
-build_property.ProjectDir = C:\Users\andil\Documents\I am a Developer\NorthwindWinFormsApp - Copy\NorthwindFormsApp\NorthwindFormsApp\
+build_property.ProjectDir = C:\Users\andil\Documents\GitHub\Northwind-WinFormsApp\NorthwindFormsApp\NorthwindFormsApp\
